@@ -2,7 +2,7 @@
 Learn regular expressions !
 
 All regular expressions explained. 
-With a text file containing all the examples from the manual. 
+With a text file containing all the examples from the manual. (*RegEx_manual_examples.txt*)
 
 LibreOffice format (*.odt)
 
