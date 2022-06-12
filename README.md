@@ -11,3 +11,4 @@ LibreOffice format (*.odt)
 - [ ] add: Annex B - RegEx in Powershell
 - [ ] add: Annex C - RegEx in Python
 - [ ] add: Annex D - RegEx in Matlab
+- [ ] add: Link to http://regex.info/book.html and https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/
